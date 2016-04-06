@@ -10,3 +10,5 @@ Designed by Alexei Vanyashin in cooperation with Olexa Volochay and Vladimir Pav
 Rationale is a Unicode typeface family that supports 
 languages that use the Latin script and its variants, and 
 could be expanded to support other scripts.
+
+![Rationale Font](src/sample.png)
