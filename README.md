@@ -11,4 +11,4 @@ Rationale is a Unicode typeface family that supports
 languages that use the Latin script and its variants, and 
 could be expanded to support other scripts.
 
-![Rationale Font](src/sample.png)
+![Rationale Font](sources/sample.png)
